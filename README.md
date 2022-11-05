@@ -4,4 +4,4 @@ Team members                  Github Username
 2 Dibyendu Mehta                Dbee-56
 3 Shubham Kumar                 shubh230
 4 Harshaja Agnihotri            hn-agnihotri29
-5 Anish Chakraborty             StructAnish
+5 Anish Chakraborty             StructAnis
