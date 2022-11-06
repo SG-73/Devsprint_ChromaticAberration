@@ -28,3 +28,6 @@ Designed and structured using HTML and CSS for the frontend of our project, whil
 
 ## What's next for CHROMA
 Currently, even though we can chat with users of same interest we are working on the updates. The next update can probbaly detect users with same answer's in a given range and can detect any unusual or creepy buisness and forbidden them from using this webpage in future. In future the users can put their questions in public to all the users.
+
+## Chat application
+https://polar-mountain-68132.herokuapp.com
