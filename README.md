@@ -6,4 +6,4 @@ Sl. No.   Team members           Github Username
 4.        Harshaja Agnihotri     hn-agnihotri29
 5.        Anish Chakraborty      StructAnish
 
-We are building a webpage based on student community. This webpage not only help many student but also the people in community.  
+We are building a webpage based on student community. This webpage not only help many students but also the people in community.  
